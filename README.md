@@ -74,6 +74,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## **Contact 📬**
 For queries or suggestions, feel free to reach out:
 
-- Email: surajkumar754780@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aayush-kumar-755157200/
-- GitHub: https://github.com/suraj-aayush
+- Email: naman9045mittal@gmail.com
+- LinkedIn: https://www.linkedin.com/in/naman-mittal
+- GitHub: https://github.com/Namanmittal18
